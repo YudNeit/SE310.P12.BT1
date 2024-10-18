@@ -1,0 +1,19 @@
+﻿@model GlassWeb.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>Product Details</h2>
+
+<div>
+    <h4>@Model.ProductName</h4>
+    <p>Price: @Model.Price</p>
+    <p>Description: @Model.Description</p>
+    <p><img src="@Model.Picture" alt="@Model.ProductName" /></p>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

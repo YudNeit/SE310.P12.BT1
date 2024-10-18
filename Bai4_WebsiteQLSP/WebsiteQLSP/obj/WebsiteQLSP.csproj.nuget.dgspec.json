@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj": {}
+    "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj": {
+    "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
+        "projectUniqueName": "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
         "projectName": "WebsiteQLSP",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
+        "projectPath": "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\obj\\",
+        "outputPath": "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

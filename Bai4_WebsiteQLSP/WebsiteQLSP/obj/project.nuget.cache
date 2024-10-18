@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvIJQP+9mKzunw5oMk+vG9BWjnkEax/8tiL5XW4KFgMjan9rotMisg/rHkbTEAUZBz/zxg/68XLVKUa1mke4sQ==",
+  "dgSpecHash": "4c6vEhddr2OFqY7s4TaC8kv63usZ1GAg4bI31XCp/QCbrLQULrWWxfhwnvi8HajsVVsv97zZGeEz4+WA6SZFSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
+  "projectFilePath": "C:\\test1\\SE310.P12.BT1\\Bai4_WebsiteQLSP\\WebsiteQLSP\\WebsiteQLSP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
